@@ -1,5 +1,5 @@
 # Overview of Web Security Measures for PHP Servers
-
+![SAMPLE](example.png)
 
 The following measures enhance the security of PHP servers and applications:
 
