@@ -1,14 +1,19 @@
+# cheatsheet laravel
+
+
+## requisities
+```
 sudo apt-get install php-curl
 sudo apt-get install php-xml
+sudo apt-get get install composer
+sudo apt-get install php
+```
 
-
-apt-get get install composer 
-
+# install laravel
 `composer global require laravel/installer`
 
+# create a new laravel project
 `composer create-project laravel/laravel <project-name>`
 
-
-
---current dir to have autoload.php / create vendor dir manually if not exist
+# install autoload.php 
 `composer install --verbose`
